@@ -1,0 +1,11 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#equalBtn{
+	-fx-background-color:"#80ccff";
+}
+
+.button{
+	-fx-font-size:17;
+	-fx-label-padding:10;
+	 
+
+}
